@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+*.cache
+
+# Logs y archivos temporales
+*.log
+*.swp
+*.bak
+*.tmp
+
+# Directorio virtualenv
+venv/
+env/
+
+# Archivos de entorno (usar variables de entorno en su lugar)
+.env
+
+# Directorio de construcción
+build/
+dist/
+
+# Dependencias de Python
+lib/
+lib64/
+__pycache__/
+.pytest_cache/
+.pytype/
+
+# Coverage files
+.coverage
+htmlcov/
+
+# Django stuff:
+*.log
+local_settings.py
+
+# IPython notebooks
+.ipynb_checkpoints/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+notebook_*.ipynb
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Vscode
+.vscode/
